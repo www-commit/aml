@@ -1,0 +1,9 @@
+@media only screen and (max-width: 600px) {
+    .trustless {
+       max-width: 260px !important;
+    }
+    .doremi {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
